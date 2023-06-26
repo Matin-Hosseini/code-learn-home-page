@@ -1,0 +1,11 @@
+.amazing-discounts {
+  margin-right: 2rem;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.amazings-discounts__image {
+  max-width: 26rem;
+  max-height: 23.6rem;
+  margin: auto;
+}

@@ -1,0 +1,11 @@
+.best-sellings-image {
+  width: 10rem;
+  height: 10rem;
+  margin: auto;
+}
+
+.best-sellings-container {
+  padding: 4rem;
+  border-radius: 10rem;
+  margin-bottom: 5rem;
+}

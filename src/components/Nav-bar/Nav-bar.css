@@ -1,0 +1,25 @@
+.nav-menu {
+  display: flex;
+}
+.nav-menu__item {
+}
+.nav-menu__link {
+  color: var(--3rd-color);
+  font-size: 16px;
+  padding: 2.5rem;
+  position: relative;
+}
+
+/* .bar::after{
+    position: absolute;
+    content: "";
+    width: 31.5px;
+} */
+
+.bar {
+  border-left: 1px solid var(--2nd-color);
+}
+
+.location span {
+  color: var(--2nd-color);
+}

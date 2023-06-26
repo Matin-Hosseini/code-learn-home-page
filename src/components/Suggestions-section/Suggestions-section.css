@@ -1,0 +1,9 @@
+.suggestion-products-container{
+    margin-top: 10rem;
+}
+
+.suggestions-container{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin: 5rem 0;
+}

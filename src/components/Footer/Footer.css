@@ -1,0 +1,30 @@
+footer {
+  border-top: 1px solid #26c6d0;
+  padding: 4rem 0;
+}
+
+.footer__title {
+  font-size: 1.3rem;
+}
+.footer__caption {
+  color: var(--3rd-color);
+  font-size: 1.4rem;
+  max-width: 29rem;
+  margin: 0 auto;
+}
+
+.footer__socials i {
+  color: #7b808c;
+  margin: 0 1.2rem;
+}
+
+.footer__links {
+  color: var(--3rd-color);
+  padding: 0 3rem;
+}
+
+.footer__logo-image{
+  width: 11.6rem;
+  height: 3.2rem;
+  margin: auto;
+}

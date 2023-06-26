@@ -1,0 +1,24 @@
+.logo a {
+  color: var(--3rd-color);
+  font-size: 3.2rem;
+  font-weight: 700;
+}
+.search span {
+  color: var(--3rd-color);
+  padding-left: 0.5rem;
+}
+.search input {
+  width: 50rem;
+  height: 2.6rem;
+  border-radius: 8px;
+  outline: 0;
+  border: 1px solid #26c6d061;
+  /* background: linear-gradient(to right, #26c6d061, #26c6d01a); */
+  background-color: #26c6d01a;
+  padding-right: 1rem;
+  color: #26c5d0;
+}
+
+.login-btn {
+  width: 11.9rem;
+}
